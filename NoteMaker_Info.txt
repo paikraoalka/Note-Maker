@@ -1,0 +1,130 @@
+NoteMaker :
+
+automate 3 scenarion
+
+ 1-click on search
+
+2.click on + create new -> task -> close
+
+3. click on notification
+
+=================https://app.eino.world/=========================
+
+install node js 
+
+node --version
+npm --version
+
+create folder--> npm init -y
+
+npm init playwright @latest
+
+npx playwright codegen https://app.eino.world/
+
+
+https://app.eino.world/account/get-started
+
+
+npx playwright test
+
+npx playwright show-report
+
+npx playwright test --headless --grep @sanity --project=chromium
+
+npx playwright test --ui
+
+npx playwright test --reporter=html
+
+
+
+==================new=================
+click  plus button
+click resource
+clear title 
+enter new title
+click on create
+click -record an audio
+click red icon (to start recording)
+record for 5 second
+click icon to stop recording 
+wait for to save recording
+add keyword from dropdown
+click description radio button
+enter some description
+click green tick
+
+
+=========================================================
+
+einobarytechteam@gmail.com
+
+Automation@12345
+
+https://app.eino.world/account/get-started?returnUrl=%2Fuser%2Fdashboard
+
+======================================================================
+
+npx playwright test tests/Resource_Images.spec.js
+
+npx playwright test tests/Resource_Images.spec.js --ui
+
+npx playwright test tests/Live_image.spec.js --reporter=html --project=chromium --headed
+==========================================================================
+
+Rough
+
+# matches file name by regex (simplest)
+npx playwright test Image
+
+# or
+npx playwright test Image\.spec\.js
+
+# or full relative path with forward slashes
+npx playwright test tests/Image.spec.js
+
+===============================================================================
+
+
+https://github.com/paikraoalka/Note-Maker.git
+
+https://github.com/paikraoalka/Note-Maker
+
+git init
+git add.
+git commit -m "msg"
+git branch -M main
+git remote add origin http-repo
+git push origin main
+
+================================================================================
+
+Allure Report Configuration:
+
+allure generate allure-results --clean -o allure-report
+
+
+npm install --save-dev @playwright/test allure-playwright
+# Install Allure command-line if not already installed globally
+npm install -g allure-commandline
+
+
+1---> npm i -d @playwright/test allure-playwright
+2---> npm install -g allure-commandline --save-dev
+3--->export default defineConfig({
+     reporter: [
+    			["line"],
+    			["allure-playwright", {output folder: 'my-allure-results'}]
+      			
+    
+  		],
+
+
+4----->npx playwright test tests/Resource_Images.spec.js
+5-----> allure generate my-allure-results -o allure-report --clean
+6----->allure open allure-report
+
+
+allure generate my-allure-results --clean -o allure-report
+
+==========================================================================
+

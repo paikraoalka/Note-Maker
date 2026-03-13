@@ -1,0 +1,543 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - link "eino-logo" [ref=e13]:
+            - /url: /user/dashboard
+            - img "eino-logo" [ref=e14]
+          - generic [ref=e16] [cursor=pointer]: 
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19] [cursor=pointer]:
+              - generic [ref=e20]: 
+              - generic [ref=e21]: Home
+            - generic [ref=e22] [cursor=pointer]:
+              - generic [ref=e23]: 
+              - generic [ref=e24]: Keywords
+            - generic [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]: 
+              - generic [ref=e27]: QR Codes
+            - generic [ref=e28] [cursor=pointer]:
+              - generic [ref=e29]: 
+              - generic [ref=e30]: Guidelines
+          - generic [ref=e31]:
+            - generic [ref=e32] [cursor=pointer]:
+              - generic [ref=e33]: 
+              - generic [ref=e34]: All Contents
+            - generic [ref=e35] [cursor=pointer]:
+              - generic [ref=e36]: 
+              - generic [ref=e37]: All Files
+            - generic [ref=e38] [cursor=pointer]:
+              - generic [ref=e39]: 
+              - generic [ref=e40]: All Requests
+          - generic [ref=e41]:
+            - generic [ref=e42] [cursor=pointer]:
+              - generic [ref=e43]: 
+              - generic [ref=e44]: My Calendar
+            - generic [ref=e45] [cursor=pointer]:
+              - generic [ref=e46]: 
+              - generic [ref=e47]: Tasks Dashboard
+            - generic [ref=e48] [cursor=pointer]:
+              - generic [ref=e49]: 
+              - generic [ref=e50]: My Team
+            - generic [ref=e51] [cursor=pointer]:
+              - generic [ref=e52]: 
+              - generic [ref=e53]: Chat
+      - contentinfo [ref=e54]: Copyright © 2026 Eino. v5.8.3
+    - generic [ref=e55]:
+      - banner [ref=e56]:
+        - banner [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e61]:
+              - img [ref=e63]
+              - generic [ref=e64]: Barytech EINO
+            - generic [ref=e66]:
+              - generic [ref=e67]:
+                - generic "Chat with support" [ref=e68]:
+                  - img "Chatbot" [ref=e69]
+                - generic [ref=e71] [cursor=pointer]: 
+                - link "" [ref=e72]:
+                  - /url: /user/settings/general
+                  - generic [ref=e73] [cursor=pointer]: 
+                - link "" [ref=e74]:
+                  - /url: /user/feedbacks
+                  - generic [ref=e75] [cursor=pointer]: 
+                - link " 33" [ref=e76] [cursor=pointer]:
+                  - /url: /user/notification/notification
+                  - generic [ref=e77]: 
+                  - generic [ref=e80]: "33"
+              - generic [ref=e83] [cursor=pointer]:
+                - img "user-profile-picture" [ref=e85]
+                - generic [ref=e87]: 
+          - generic [ref=e92]:
+            - heading "Dashboard" [level=2] [ref=e95]
+            - generic [ref=e97]:
+              - button "" [ref=e99] [cursor=pointer]:
+                - generic [ref=e100]: 
+              - button "" [ref=e102] [cursor=pointer]:
+                - generic [ref=e103]: 
+      - main [ref=e104]:
+        - generic [ref=e105]:
+          - img "banner-image" [ref=e106]
+          - generic [ref=e107]:
+            - generic [ref=e110]:
+              - paragraph [ref=e114]: Recent Changes
+              - region [ref=e115]:
+                - generic [ref=e117]:
+                  - generic [ref=e119] [cursor=pointer]: 
+                  - generic [ref=e122]:
+                    - article [ref=e127]:
+                      - generic [ref=e130]:
+                        - generic [ref=e131] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e132]
+                          - generic [ref=e133]:
+                            - button "" [ref=e134]:
+                              - generic [ref=e135]: 
+                            - generic [ref=e136]:
+                              - generic [ref=e137]: EINO QR Resource test 1773363001515
+                              - generic [ref=e138]: Mar 13 | 2026 | 06:20 AM
+                            - text: 
+                        - article [ref=e140]:
+                          - generic [ref=e141]: EINO QR Resource test 1773363001515
+                          - generic [ref=e144]: automation
+                          - generic [ref=e145]: Mar 13 | 2026 | 06:20 AM
+                    - article [ref=e150]:
+                      - generic [ref=e153]:
+                        - generic [ref=e154] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e155]
+                          - generic [ref=e156]:
+                            - button "" [ref=e157]:
+                              - generic [ref=e158]: 
+                            - generic [ref=e159]:
+                              - generic [ref=e160]: ab
+                              - generic [ref=e161]: Mar 12 | 2026 | 08:26 PM
+                            - text: 
+                        - article [ref=e163]:
+                          - generic [ref=e164]: ab
+                          - paragraph [ref=e166]: vm
+                          - generic [ref=e169]: eino-marktplatz
+                          - generic [ref=e170]: Mar 12 | 2026 | 08:26 PM
+                    - article [ref=e175]:
+                      - generic [ref=e178]:
+                        - generic [ref=e179] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e180]
+                          - generic [ref=e181]:
+                            - button "" [ref=e182]:
+                              - generic [ref=e183]: 
+                            - generic [ref=e184]:
+                              - generic [ref=e185]: Text Resource Upload Automation Test
+                              - generic [ref=e186]: Mar 12 | 2026 | 03:56 PM
+                            - text: 
+                        - article [ref=e188]:
+                          - generic [ref=e189]: Text Resource Upload Automation Test
+                          - generic [ref=e192]: automation
+                          - generic [ref=e193]: Mar 12 | 2026 | 03:56 PM
+                    - article [ref=e198]:
+                      - generic [ref=e201]:
+                        - generic [ref=e202] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e203]
+                          - generic [ref=e204]:
+                            - button "" [ref=e205]:
+                              - generic [ref=e206]: 
+                            - generic [ref=e207]:
+                              - generic [ref=e208]: Text Resource Upload Automation Test
+                              - generic [ref=e209]: Mar 12 | 2026 | 02:11 PM
+                            - text: 
+                        - article [ref=e211]:
+                          - generic [ref=e212]: Text Resource Upload Automation Test
+                          - generic [ref=e215]: automation
+                          - generic [ref=e216]: Mar 12 | 2026 | 02:11 PM
+                    - article [ref=e221]:
+                      - generic [ref=e224]:
+                        - generic [ref=e225] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e226]
+                          - generic [ref=e227]:
+                            - button "" [ref=e228]:
+                              - generic [ref=e229]: 
+                            - generic [ref=e230]:
+                              - generic [ref=e231]: Knowledge 12-03-2026
+                              - generic [ref=e232]: Mar 12 | 2026 | 02:08 PM
+                            - text: 
+                        - article [ref=e234]:
+                          - generic [ref=e235]: Knowledge 12-03-2026
+                          - generic [ref=e238]: eino-struktur
+                          - generic [ref=e239]: Mar 12 | 2026 | 02:08 PM
+                  - generic [ref=e242]:
+                    - article [ref=e247]:
+                      - generic [ref=e250]:
+                        - generic [ref=e251] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e252]
+                          - generic [ref=e253]:
+                            - button "" [ref=e254]:
+                              - generic [ref=e255]: 
+                            - generic [ref=e256]:
+                              - generic [ref=e257]: EINO Audio Upload test 1773362781492
+                              - generic [ref=e258]: Mar 13 | 2026 | 06:16 AM
+                            - text: 
+                        - article [ref=e260]:
+                          - generic [ref=e261]: EINO Audio Upload test 1773362781492
+                          - generic [ref=e264]: automation
+                          - generic [ref=e265]: Mar 13 | 2026 | 06:16 AM
+                    - article [ref=e270]:
+                      - generic [ref=e273]:
+                        - generic [ref=e274] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e275]
+                          - generic [ref=e276]:
+                            - button "" [ref=e277]:
+                              - generic [ref=e278]: 
+                            - generic [ref=e279]:
+                              - generic [ref=e280]: Aufio resouce upload test automation
+                              - generic [ref=e281]: Mar 12 | 2026 | 04:02 PM
+                            - text: 
+                        - article [ref=e283]:
+                          - generic [ref=e284]: Aufio resouce upload test automation
+                          - generic [ref=e287]: eino-struktur
+                          - generic [ref=e288]: Mar 12 | 2026 | 04:02 PM
+                    - article [ref=e293]:
+                      - generic [ref=e296]:
+                        - generic [ref=e297] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e298]
+                          - generic [ref=e299]:
+                            - button "" [ref=e300]:
+                              - generic [ref=e301]: 
+                            - generic [ref=e302]:
+                              - generic [ref=e303]: TEXT AGAIN PRATIBHA
+                              - generic [ref=e304]: Mar 12 | 2026 | 02:15 PM
+                            - text: 
+                        - article [ref=e306]:
+                          - generic [ref=e307]: TEXT AGAIN PRATIBHA
+                          - generic [ref=e308]: Mar 12 | 2026 | 02:15 PM
+                    - article [ref=e313]:
+                      - generic [ref=e316]:
+                        - generic [ref=e317] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e318]
+                          - generic [ref=e319]:
+                            - button "" [ref=e320]:
+                              - generic [ref=e321]: 
+                            - generic [ref=e322]:
+                              - generic [ref=e323]: Test renamed
+                              - generic [ref=e324]: Mar 12 | 2026 | 02:10 PM
+                            - text: 
+                        - article [ref=e326]:
+                          - generic [ref=e327]: Test renamed
+                          - generic [ref=e330]: antuaproval
+                          - generic [ref=e331]: Mar 12 | 2026 | 02:10 PM
+                    - article [ref=e336]:
+                      - generic [ref=e339]:
+                        - generic [ref=e340] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e341]
+                          - generic [ref=e342]:
+                            - button "" [ref=e343]:
+                              - generic [ref=e344]: 
+                            - generic [ref=e345]:
+                              - generic [ref=e346]: Text Resource Upload Automation Test
+                              - generic [ref=e347]: Mar 12 | 2026 | 01:41 PM
+                        - article [ref=e349]:
+                          - generic [ref=e350]: Text Resource Upload Automation Test
+                          - generic [ref=e353]: automation
+                          - generic [ref=e354]: Mar 12 | 2026 | 01:41 PM
+            - generic [ref=e358]:
+              - paragraph [ref=e362]: My Favourites
+              - region [ref=e363]:
+                - generic [ref=e365]:
+                  - generic:
+                    - generic [ref=e367] [cursor=pointer]: 
+                    - generic [ref=e369] [cursor=pointer]: 
+                  - generic [ref=e370]:
+                    - article [ref=e373]:
+                      - generic [ref=e376]:
+                        - generic [ref=e377] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e378]
+                          - generic [ref=e379]:
+                            - button "" [ref=e380]:
+                              - generic [ref=e381]: 
+                            - generic [ref=e382]:
+                              - generic [ref=e383]: Text Resource Upload Automation Test
+                              - generic [ref=e384]: Mar 12 | 2026 | 02:11 PM
+                            - text: 
+                        - article [ref=e386]:
+                          - generic [ref=e387]: Text Resource Upload Automation Test
+                          - generic [ref=e390]: automation
+                          - generic [ref=e391]: Mar 12 | 2026 | 02:11 PM
+                    - article [ref=e394]:
+                      - generic [ref=e397]:
+                        - generic [ref=e398] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e399]
+                          - generic [ref=e400]:
+                            - button "" [ref=e401]:
+                              - generic [ref=e402]: 
+                            - generic [ref=e403]:
+                              - generic [ref=e404]: EINO Favorite Button test 1766474960808
+                              - generic [ref=e405]: Feb 19 | 2026 | 02:21 PM
+                            - text:  
+                        - article [ref=e407]:
+                          - generic [ref=e408]: EINO Favorite Button test 1766474960808
+                          - generic [ref=e410]:
+                            - generic [ref=e411]: draft
+                            - generic [ref=e412]: automation
+                          - generic [ref=e413]: Feb 19 | 2026 | 02:21 PM
+                    - article [ref=e416]:
+                      - generic [ref=e419]:
+                        - generic [ref=e420] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e421]
+                          - generic [ref=e422]:
+                            - button "" [ref=e423]:
+                              - generic [ref=e424]: 
+                            - generic [ref=e425]:
+                              - generic [ref=e426]: EINO Favorite Button test 1766474533098
+                              - generic [ref=e427]: Dec 23 | 2025 | 12:52 PM
+                            - text: 
+                        - article [ref=e429]:
+                          - generic [ref=e430]: EINO Favorite Button test 1766474533098
+                          - generic [ref=e432]:
+                            - generic [ref=e433]: draft
+                            - generic [ref=e434]: automation
+                          - generic [ref=e435]: Dec 23 | 2025 | 12:52 PM
+                    - article [ref=e438]:
+                      - generic [ref=e441]:
+                        - generic [ref=e442] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e443]
+                          - generic [ref=e444]:
+                            - button "" [ref=e445]:
+                              - generic [ref=e446]: 
+                            - generic [ref=e447]:
+                              - generic [ref=e448]: EINO Favorite Button test 1766471621859
+                              - generic [ref=e449]: Dec 23 | 2025 | 12:04 PM
+                            - text: 
+                        - article [ref=e451]:
+                          - generic [ref=e452]: EINO Favorite Button test 1766471621859
+                          - generic [ref=e455]: automation
+                          - generic [ref=e456]: Dec 23 | 2025 | 12:04 PM
+                    - article [ref=e459]:
+                      - generic [ref=e462]:
+                        - generic [ref=e463] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e464]
+                          - generic [ref=e465]:
+                            - button "" [ref=e466]:
+                              - generic [ref=e467]: 
+                            - generic [ref=e468]:
+                              - generic [ref=e469]: EINO Favorite Button test 1766470325112
+                              - generic [ref=e470]: Dec 23 | 2025 | 11:42 AM
+                            - text: 
+                        - article [ref=e472]:
+                          - generic [ref=e473]: EINO Favorite Button test 1766470325112
+                          - generic [ref=e475]:
+                            - generic [ref=e476]: draft
+                            - generic [ref=e477]: automation
+                          - generic [ref=e478]: Dec 23 | 2025 | 11:42 AM
+                    - article [ref=e481]:
+                      - generic [ref=e484]:
+                        - generic [ref=e485] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e486]
+                          - generic [ref=e487]:
+                            - button "" [ref=e488]:
+                              - generic [ref=e489]: 
+                            - generic [ref=e490]:
+                              - generic [ref=e491]: EINO Favorite Button test 1766470227857
+                              - generic [ref=e492]: Dec 23 | 2025 | 11:41 AM
+                            - text: 
+                        - article [ref=e494]:
+                          - generic [ref=e495]: EINO Favorite Button test 1766470227857
+                          - generic [ref=e497]:
+                            - generic [ref=e498]: draft
+                            - generic [ref=e499]: automation
+                          - generic [ref=e500]: Dec 23 | 2025 | 11:41 AM
+                    - article [ref=e503]:
+                      - generic [ref=e506]:
+                        - generic [ref=e507] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e508]
+                          - generic [ref=e509]:
+                            - button "" [ref=e510]:
+                              - generic [ref=e511]: 
+                            - generic [ref=e512]:
+                              - generic [ref=e513]: EINO Favorite Button test 1766403318447
+                              - generic [ref=e514]: Dec 22 | 2025 | 05:06 PM
+                            - text: 
+                        - article [ref=e516]:
+                          - generic [ref=e517]: EINO Favorite Button test 1766403318447
+                          - generic [ref=e519]:
+                            - generic [ref=e520]: draft
+                            - generic [ref=e521]: automation
+                          - generic [ref=e522]: Dec 22 | 2025 | 05:06 PM
+                    - article [ref=e525]:
+                      - generic [ref=e528]:
+                        - generic [ref=e529] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e530]
+                          - generic [ref=e531]:
+                            - button "" [ref=e532]:
+                              - generic [ref=e533]: 
+                            - generic [ref=e534]:
+                              - generic [ref=e535]: EINO Favorite Button test 12/16/2025, 6:01:02 PM
+                              - generic [ref=e536]: Dec 16 | 2025 | 06:01 PM
+                            - text: 
+                        - article [ref=e538]:
+                          - generic [ref=e539]: EINO Favorite Button test 12/16/2025, 6:01:02 PM
+                          - generic [ref=e541]:
+                            - generic [ref=e542]: draft
+                            - generic [ref=e543]: automation
+                          - generic [ref=e544]: Dec 16 | 2025 | 06:01 PM
+                    - article [ref=e547]:
+                      - generic [ref=e550]:
+                        - generic [ref=e551] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e552]
+                          - generic [ref=e553]:
+                            - button "" [ref=e554]:
+                              - generic [ref=e555]: 
+                            - generic [ref=e556]:
+                              - generic [ref=e557]: EINO Favorite Button test 12/9/2025, 3:14:45 PM
+                              - generic [ref=e558]: Dec 09 | 2025 | 03:15 PM
+                            - text: 
+                        - article [ref=e560]:
+                          - generic [ref=e561]: EINO Favorite Button test 12/9/2025, 3:14:45 PM
+                          - generic [ref=e563]:
+                            - generic [ref=e564]: draft
+                            - generic [ref=e565]: automation
+                          - generic [ref=e566]: Dec 09 | 2025 | 03:15 PM
+                    - article [ref=e569]:
+                      - generic [ref=e572]:
+                        - generic [ref=e573] [cursor=pointer]:
+                          - img "Image preview unavailable" [ref=e574]
+                          - generic [ref=e575]:
+                            - button "" [ref=e576]:
+                              - generic [ref=e577]: 
+                            - generic [ref=e578]:
+                              - generic [ref=e579]: EINO Favorite Button test 12/9/2025, 3:03:55 PM
+                              - generic [ref=e580]: Dec 09 | 2025 | 03:04 PM
+                            - text: 
+                        - article [ref=e582]:
+                          - generic [ref=e583]: EINO Favorite Button test 12/9/2025, 3:03:55 PM
+                          - generic [ref=e585]:
+                            - generic [ref=e586]: draft
+                            - generic [ref=e587]: automation
+                          - generic [ref=e588]: Dec 09 | 2025 | 03:04 PM
+                    - button "" [ref=e591] [cursor=pointer]:
+                      - generic [ref=e592]: 
+            - generic [ref=e596]:
+              - generic [ref=e598]:
+                - generic [ref=e599]: Keywords
+                - button "" [ref=e601] [cursor=pointer]:
+                  - generic [ref=e602]: 
+              - region [ref=e603]:
+                - generic [ref=e605]:
+                  - generic [ref=e608] [cursor=pointer]:
+                    - generic [ref=e609]: draft
+                    - generic [ref=e610]: (91)
+                  - generic [ref=e613] [cursor=pointer]:
+                    - generic [ref=e614]: eino-struktur
+                    - generic [ref=e615]: (33)
+                  - generic [ref=e618] [cursor=pointer]:
+                    - generic [ref=e619]: eino-marktplatz
+                    - generic [ref=e620]: (27)
+                  - generic [ref=e623] [cursor=pointer]:
+                    - generic [ref=e624]: replacedthis
+                    - generic [ref=e625]: (6)
+                  - generic [ref=e628] [cursor=pointer]:
+                    - generic [ref=e629]: eino-affiliate
+                    - generic [ref=e630]: (4)
+                  - generic [ref=e633] [cursor=pointer]:
+                    - generic [ref=e634]: antuaproval
+                    - generic [ref=e635]: (6)
+                  - generic [ref=e638] [cursor=pointer]:
+                    - generic [ref=e639]: heimat123
+                    - generic [ref=e640]: (3)
+                  - generic [ref=e643] [cursor=pointer]:
+                    - generic [ref=e644]: keay
+                    - generic [ref=e645]: (4)
+                  - generic [ref=e648] [cursor=pointer]:
+                    - generic [ref=e649]: key1
+                    - generic [ref=e650]: (7)
+                  - generic [ref=e653] [cursor=pointer]:
+                    - generic [ref=e654]: loveerffdgvdfr
+                    - generic [ref=e655]: (2)
+            - generic [ref=e658]:
+              - generic [ref=e660]:
+                - generic [ref=e661]: My Tasks
+                - button "" [ref=e663] [cursor=pointer]:
+                  - generic [ref=e664]: 
+              - region [ref=e665]:
+                - generic [ref=e667]:
+                  - generic [ref=e673]:
+                    - heading " Completed" [level=2] [ref=e675]:
+                      - generic [ref=e676]: 
+                      - text: Completed
+                    - button "See All" [ref=e679] [cursor=pointer]
+                    - generic [ref=e681]: 312 Task Done
+                  - generic [ref=e687]:
+                    - heading " In Progress" [level=2] [ref=e689]:
+                      - generic [ref=e690]: 
+                      - text: In Progress
+                    - button "See All" [ref=e693] [cursor=pointer]
+                    - generic [ref=e695]: 1 Task Left
+                  - generic [ref=e701]:
+                    - heading " To Do" [level=2] [ref=e703]:
+                      - generic [ref=e704]: 
+                      - text: To Do
+                    - button "See All" [ref=e707] [cursor=pointer]
+                    - generic [ref=e709]: 0 Task in To Do
+                  - generic [ref=e715]:
+                    - heading " Overdue" [level=2] [ref=e717]:
+                      - generic [ref=e718]: 
+                      - text: Overdue
+                    - button "See All" [ref=e721] [cursor=pointer]
+                    - generic [ref=e723]: 6342 Task in Overdue
+  - iframe [ref=e724]:
+    - generic [ref=f1e6]:
+      - generic [ref=f1e7]:
+        - generic [ref=f1e8]:
+          - generic [ref=f1e9]: EINO
+          - generic [ref=f1e10]:
+            - button "" [ref=f1e11] [cursor=pointer]:
+              - generic [ref=f1e12]: 
+            - button "" [ref=f1e13] [cursor=pointer]:
+              - generic [ref=f1e14]: 
+        - heading "How Can We Help You?" [level=1] [ref=f1e15]
+        - paragraph [ref=f1e16]: Check out our FAQs or chat with our team
+        - generic [ref=f1e17]:
+          - generic [ref=f1e18]: 
+          - textbox "Search" [ref=f1e19]
+      - generic [ref=f1e20]:
+        - paragraph [ref=f1e21]: FREQUENT TOPICS
+        - generic [ref=f1e22]:
+          - button "Account" [ref=f1e23] [cursor=pointer]
+          - button "Subscription" [ref=f1e24] [cursor=pointer]
+          - button "Billing" [ref=f1e25] [cursor=pointer]
+          - button "Resources" [ref=f1e26] [cursor=pointer]
+          - button "Guidelines" [ref=f1e27] [cursor=pointer]
+          - button "QR Codes" [ref=f1e28] [cursor=pointer]
+          - button "Uploads" [ref=f1e29] [cursor=pointer]
+          - button "Add-ons" [ref=f1e30] [cursor=pointer]
+          - button "Users" [ref=f1e31] [cursor=pointer]
+          - button "Permissions" [ref=f1e32] [cursor=pointer]
+          - button "Search" [ref=f1e33] [cursor=pointer]
+          - button "AI Chat" [ref=f1e34] [cursor=pointer]
+          - button "Support" [ref=f1e35] [cursor=pointer]
+          - button "Mobile App" [ref=f1e36] [cursor=pointer]
+        - button "" [ref=f1e38] [cursor=pointer]:
+          - generic [ref=f1e39]: 
+        - paragraph [ref=f1e40]: LIVE SUPPORT
+        - generic [ref=f1e41]:
+          - generic [ref=f1e42]:
+            - heading "We Are Here To Help!" [level=3] [ref=f1e43]
+            - paragraph [ref=f1e44]: Talk to us instantly through live chat
+            - button "Chat With AI" [ref=f1e45] [cursor=pointer]
+          - generic [ref=f1e46]:
+            - generic [ref=f1e49]: We are online
+            - img "Support" [ref=f1e50]
+  - generic:
+    - application:
+      - generic:
+        - generic:
+          - list
+        - generic:
+          - list
+    - application:
+      - generic:
+        - generic:
+          - list
+        - generic:
+          - list
+```

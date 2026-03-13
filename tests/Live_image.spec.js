@@ -1,0 +1,30 @@
+import { test, expect } from '@playwright/test';
+
+test('test', async ({ page }) => {
+  await page.goto('https://app.eino.world/account/get-started?returnUrl=%2Fuser%2Fdashboard');
+  await page.getByRole('tabpanel', { name: 'Anmelden' }).locator('#email').click();
+  await page.getByRole('tabpanel', { name: 'Anmelden' }).locator('#email').fill('einobarytechteam@gmail.com');
+  await page.getByRole('textbox', { name: '* Passwort *Passwort' }).click();
+  await page.getByRole('textbox', { name: '* Passwort *Passwort' }).fill('Automation@12345');
+  await page.getByRole('button', { name: 'Deutsch' }).click();
+  await page.locator('a').filter({ hasText: 'Englisch' }).click();
+  await page.getByRole('button', { name: 'Sign In' }).click();
+  await page.getByRole('button').nth(1).click();
+  await page.locator('[data-test-id="resource-label"]').click();
+  await page.locator('.ri-close-line.clear-icon').click();
+  await page.getByRole('button', { name: 'Create' }).click();
+  await page.getByRole('textbox', { name: 'Please insert a title.' }).click();
+  await page.getByRole('textbox', { name: 'Please insert a title.' }).fill('ab');
+  await page.getByRole('button', { name: 'Create' }).click();
+  await page.locator('a').filter({ hasText: 'Capture an Image' }).click();
+  await page.getByTestId('resource-image-desktop-cta').click();
+  await page.getByTestId('resource-image-capture-btn').click();
+  await page.locator('div').filter({ hasText: 'Add Keywords' }).nth(4).click();
+  await page.getByLabel('Options List').getByText('eino-marktplatz').click();
+  await page.getByRole('heading', { name: 'Description' }).nth(1).click();
+  await page.locator('.p-inputswitch-slider').first().click();
+  await page.locator('#inputswitch-description').getByRole('switch').press('a');
+  await page.getByRole('textbox', { name: 'Rich Text Editor. Editing' }).nth(1).click();
+  await page.getByRole('textbox', { name: 'Rich Text Editor. Editing' }).nth(1).fill('vm');
+  await page.locator('.p-ripple.p-element.p-button.p-component.p-button-icon-only.p-button-success').click();
+});

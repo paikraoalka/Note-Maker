@@ -1,0 +1,1017 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e7]:
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - link "eino-logo" [ref=e13] [cursor=pointer]:
+              - /url: /user/dashboard
+              - img "eino-logo" [ref=e14]
+            - generic [ref=e16] [cursor=pointer]: 
+          - generic [ref=e17]:
+            - generic [ref=e18]:
+              - generic [ref=e19] [cursor=pointer]:
+                - generic [ref=e20]: 
+                - generic [ref=e21]: Home
+              - generic [ref=e22] [cursor=pointer]:
+                - generic [ref=e23]: 
+                - generic [ref=e24]: Keywords
+              - generic [ref=e25] [cursor=pointer]:
+                - generic [ref=e26]: 
+                - generic [ref=e27]: QR Codes
+              - generic [ref=e28] [cursor=pointer]:
+                - generic [ref=e29]: 
+                - generic [ref=e30]: Guidelines
+            - generic [ref=e31]:
+              - generic [ref=e32] [cursor=pointer]:
+                - generic [ref=e33]: 
+                - generic [ref=e34]: All Contents
+              - generic [ref=e35] [cursor=pointer]:
+                - generic [ref=e36]: 
+                - generic [ref=e37]: All Files
+              - generic [ref=e38] [cursor=pointer]:
+                - generic [ref=e39]: 
+                - generic [ref=e40]: All Requests
+            - generic [ref=e41]:
+              - generic [ref=e42] [cursor=pointer]:
+                - generic [ref=e43]: 
+                - generic [ref=e44]: My Calendar
+              - generic [ref=e45] [cursor=pointer]:
+                - generic [ref=e46]: 
+                - generic [ref=e47]: Tasks Dashboard
+              - generic [ref=e48] [cursor=pointer]:
+                - generic [ref=e49]: 
+                - generic [ref=e50]: My Team
+              - generic [ref=e51] [cursor=pointer]:
+                - generic [ref=e52]: 
+                - generic [ref=e53]: Chat
+        - contentinfo [ref=e54]: Copyright © 2026 Eino. v5.8.3
+      - generic [ref=e55]:
+        - banner [ref=e56]:
+          - banner [ref=e58]:
+            - generic [ref=e59]:
+              - generic [ref=e61]:
+                - img [ref=e63]
+                - generic [ref=e64]: Barytech EINO
+              - generic [ref=e66]:
+                - generic [ref=e67]:
+                  - generic "Chat with support" [ref=e68]:
+                    - img "Chatbot" [ref=e69]
+                  - generic [ref=e71] [cursor=pointer]: 
+                  - link "" [ref=e72] [cursor=pointer]:
+                    - /url: /user/settings/general
+                    - generic [ref=e73]: 
+                  - link "" [ref=e74] [cursor=pointer]:
+                    - /url: /user/feedbacks
+                    - generic [ref=e75]: 
+                  - link " 33" [ref=e76] [cursor=pointer]:
+                    - /url: /user/notification/notification
+                    - generic [ref=e77]: 
+                    - generic [ref=e80]: "33"
+                - generic [ref=e83] [cursor=pointer]:
+                  - img "user-profile-picture" [ref=e85]
+                  - generic [ref=e87]: 
+            - generic [ref=e92]:
+              - heading "Dashboard" [level=2] [ref=e95]
+              - generic [ref=e97]:
+                - button "" [ref=e99] [cursor=pointer]:
+                  - generic [ref=e100]: 
+                - button "" [ref=e102] [cursor=pointer]:
+                  - generic [ref=e103]: 
+        - main [ref=e104]:
+          - generic [ref=e105]:
+            - img "banner-image" [ref=e106]
+            - generic [ref=e107]:
+              - generic [ref=e110]:
+                - paragraph [ref=e114]: Recent Changes
+                - region [ref=e115]
+              - generic [ref=e142]:
+                - paragraph [ref=e146]: My Favourites
+                - region [ref=e147]:
+                  - generic [ref=e149]:
+                    - generic:
+                      - generic [ref=e151] [cursor=pointer]: 
+                      - generic [ref=e153] [cursor=pointer]: 
+                    - generic [ref=e154]:
+                      - article [ref=e157]:
+                        - generic [ref=e160]:
+                          - generic [ref=e161] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e162]
+                            - generic [ref=e163]:
+                              - button "" [ref=e164]:
+                                - generic [ref=e165]: 
+                              - generic [ref=e166]:
+                                - generic [ref=e167]: Text Resource Upload Automation Test
+                                - generic [ref=e168]: Mar 12 | 2026 | 02:11 PM
+                              - text: 
+                          - article [ref=e170]:
+                            - generic [ref=e171]: Text Resource Upload Automation Test
+                            - generic [ref=e174]: automation
+                            - generic [ref=e175]: Mar 12 | 2026 | 02:11 PM
+                      - article [ref=e178]:
+                        - generic [ref=e181]:
+                          - generic [ref=e182] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e183]
+                            - generic [ref=e184]:
+                              - button "" [ref=e185]:
+                                - generic [ref=e186]: 
+                              - generic [ref=e187]:
+                                - generic [ref=e188]: EINO Favorite Button test 1766474960808
+                                - generic [ref=e189]: Feb 19 | 2026 | 02:21 PM
+                              - text:  
+                          - article [ref=e191]:
+                            - generic [ref=e192]: EINO Favorite Button test 1766474960808
+                            - generic [ref=e194]:
+                              - generic [ref=e195]: draft
+                              - generic [ref=e196]: automation
+                            - generic [ref=e197]: Feb 19 | 2026 | 02:21 PM
+                      - article [ref=e200]:
+                        - generic [ref=e203]:
+                          - generic [ref=e204] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e205]
+                            - generic [ref=e206]:
+                              - button "" [ref=e207]:
+                                - generic [ref=e208]: 
+                              - generic [ref=e209]:
+                                - generic [ref=e210]: EINO Favorite Button test 1766474533098
+                                - generic [ref=e211]: Dec 23 | 2025 | 12:52 PM
+                              - text: 
+                          - article [ref=e213]:
+                            - generic [ref=e214]: EINO Favorite Button test 1766474533098
+                            - generic [ref=e216]:
+                              - generic [ref=e217]: draft
+                              - generic [ref=e218]: automation
+                            - generic [ref=e219]: Dec 23 | 2025 | 12:52 PM
+                      - article [ref=e222]:
+                        - generic [ref=e225]:
+                          - generic [ref=e226] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e227]
+                            - generic [ref=e228]:
+                              - button "" [ref=e229]:
+                                - generic [ref=e230]: 
+                              - generic [ref=e231]:
+                                - generic [ref=e232]: EINO Favorite Button test 1766471621859
+                                - generic [ref=e233]: Dec 23 | 2025 | 12:04 PM
+                              - text: 
+                          - article [ref=e235]:
+                            - generic [ref=e236]: EINO Favorite Button test 1766471621859
+                            - generic [ref=e239]: automation
+                            - generic [ref=e240]: Dec 23 | 2025 | 12:04 PM
+                      - article [ref=e243]:
+                        - generic [ref=e246]:
+                          - generic [ref=e247] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e248]
+                            - generic [ref=e249]:
+                              - button "" [ref=e250]:
+                                - generic [ref=e251]: 
+                              - generic [ref=e252]:
+                                - generic [ref=e253]: EINO Favorite Button test 1766470325112
+                                - generic [ref=e254]: Dec 23 | 2025 | 11:42 AM
+                              - text: 
+                          - article [ref=e256]:
+                            - generic [ref=e257]: EINO Favorite Button test 1766470325112
+                            - generic [ref=e259]:
+                              - generic [ref=e260]: draft
+                              - generic [ref=e261]: automation
+                            - generic [ref=e262]: Dec 23 | 2025 | 11:42 AM
+                      - article [ref=e265]:
+                        - generic [ref=e268]:
+                          - generic [ref=e269] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e270]
+                            - generic [ref=e271]:
+                              - button "" [ref=e272]:
+                                - generic [ref=e273]: 
+                              - generic [ref=e274]:
+                                - generic [ref=e275]: EINO Favorite Button test 1766470227857
+                                - generic [ref=e276]: Dec 23 | 2025 | 11:41 AM
+                              - text: 
+                          - article [ref=e278]:
+                            - generic [ref=e279]: EINO Favorite Button test 1766470227857
+                            - generic [ref=e281]:
+                              - generic [ref=e282]: draft
+                              - generic [ref=e283]: automation
+                            - generic [ref=e284]: Dec 23 | 2025 | 11:41 AM
+                      - article [ref=e287]:
+                        - generic [ref=e290]:
+                          - generic [ref=e291] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e292]
+                            - generic [ref=e293]:
+                              - button "" [ref=e294]:
+                                - generic [ref=e295]: 
+                              - generic [ref=e296]:
+                                - generic [ref=e297]: EINO Favorite Button test 1766403318447
+                                - generic [ref=e298]: Dec 22 | 2025 | 05:06 PM
+                              - text: 
+                          - article [ref=e300]:
+                            - generic [ref=e301]: EINO Favorite Button test 1766403318447
+                            - generic [ref=e303]:
+                              - generic [ref=e304]: draft
+                              - generic [ref=e305]: automation
+                            - generic [ref=e306]: Dec 22 | 2025 | 05:06 PM
+                      - article [ref=e309]:
+                        - generic [ref=e312]:
+                          - generic [ref=e313] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e314]
+                            - generic [ref=e315]:
+                              - button "" [ref=e316]:
+                                - generic [ref=e317]: 
+                              - generic [ref=e318]:
+                                - generic [ref=e319]: EINO Favorite Button test 12/16/2025, 6:01:02 PM
+                                - generic [ref=e320]: Dec 16 | 2025 | 06:01 PM
+                              - text: 
+                          - article [ref=e322]:
+                            - generic [ref=e323]: EINO Favorite Button test 12/16/2025, 6:01:02 PM
+                            - generic [ref=e325]:
+                              - generic [ref=e326]: draft
+                              - generic [ref=e327]: automation
+                            - generic [ref=e328]: Dec 16 | 2025 | 06:01 PM
+                      - article [ref=e331]:
+                        - generic [ref=e334]:
+                          - generic [ref=e335] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e336]
+                            - generic [ref=e337]:
+                              - button "" [ref=e338]:
+                                - generic [ref=e339]: 
+                              - generic [ref=e340]:
+                                - generic [ref=e341]: EINO Favorite Button test 12/9/2025, 3:14:45 PM
+                                - generic [ref=e342]: Dec 09 | 2025 | 03:15 PM
+                              - text: 
+                          - article [ref=e344]:
+                            - generic [ref=e345]: EINO Favorite Button test 12/9/2025, 3:14:45 PM
+                            - generic [ref=e347]:
+                              - generic [ref=e348]: draft
+                              - generic [ref=e349]: automation
+                            - generic [ref=e350]: Dec 09 | 2025 | 03:15 PM
+                      - article [ref=e353]:
+                        - generic [ref=e356]:
+                          - generic [ref=e357] [cursor=pointer]:
+                            - img "Image preview unavailable" [ref=e358]
+                            - generic [ref=e359]:
+                              - button "" [ref=e360]:
+                                - generic [ref=e361]: 
+                              - generic [ref=e362]:
+                                - generic [ref=e363]: EINO Favorite Button test 12/9/2025, 3:03:55 PM
+                                - generic [ref=e364]: Dec 09 | 2025 | 03:04 PM
+                              - text: 
+                          - article [ref=e366]:
+                            - generic [ref=e367]: EINO Favorite Button test 12/9/2025, 3:03:55 PM
+                            - generic [ref=e369]:
+                              - generic [ref=e370]: draft
+                              - generic [ref=e371]: automation
+                            - generic [ref=e372]: Dec 09 | 2025 | 03:04 PM
+                      - button "" [ref=e375] [cursor=pointer]:
+                        - generic [ref=e376]: 
+              - generic [ref=e380]:
+                - generic [ref=e382]:
+                  - generic [ref=e383]: Keywords
+                  - button "" [ref=e385] [cursor=pointer]:
+                    - generic [ref=e386]: 
+                - region [ref=e387]:
+                  - generic [ref=e389]:
+                    - generic [ref=e392] [cursor=pointer]:
+                      - generic [ref=e393]: draft
+                      - generic [ref=e394]: (91)
+                    - generic [ref=e397] [cursor=pointer]:
+                      - generic [ref=e398]: eino-struktur
+                      - generic [ref=e399]: (33)
+                    - generic [ref=e402] [cursor=pointer]:
+                      - generic [ref=e403]: eino-marktplatz
+                      - generic [ref=e404]: (27)
+                    - generic [ref=e407] [cursor=pointer]:
+                      - generic [ref=e408]: replacedthis
+                      - generic [ref=e409]: (6)
+                    - generic [ref=e412] [cursor=pointer]:
+                      - generic [ref=e413]: eino-affiliate
+                      - generic [ref=e414]: (4)
+                    - generic [ref=e417] [cursor=pointer]:
+                      - generic [ref=e418]: antuaproval
+                      - generic [ref=e419]: (6)
+                    - generic [ref=e422] [cursor=pointer]:
+                      - generic [ref=e423]: heimat123
+                      - generic [ref=e424]: (3)
+                    - generic [ref=e427] [cursor=pointer]:
+                      - generic [ref=e428]: keay
+                      - generic [ref=e429]: (4)
+                    - generic [ref=e432] [cursor=pointer]:
+                      - generic [ref=e433]: key1
+                      - generic [ref=e434]: (7)
+                    - generic [ref=e437] [cursor=pointer]:
+                      - generic [ref=e438]: loveerffdgvdfr
+                      - generic [ref=e439]: (2)
+              - generic [ref=e442]:
+                - generic [ref=e444]:
+                  - generic [ref=e445]: My Tasks
+                  - button "" [ref=e447] [cursor=pointer]:
+                    - generic [ref=e448]: 
+                - region [ref=e449]:
+                  - generic [ref=e451]:
+                    - generic [ref=e457]:
+                      - heading " Completed" [level=2] [ref=e459]:
+                        - generic [ref=e460]: 
+                        - text: Completed
+                      - button "See All" [ref=e463] [cursor=pointer]
+                      - generic [ref=e465]: 312 Task Done
+                    - generic [ref=e471]:
+                      - heading " In Progress" [level=2] [ref=e473]:
+                        - generic [ref=e474]: 
+                        - text: In Progress
+                      - button "See All" [ref=e477] [cursor=pointer]
+                      - generic [ref=e479]: 1 Task Left
+                    - generic [ref=e485]:
+                      - heading " To Do" [level=2] [ref=e487]:
+                        - generic [ref=e488]: 
+                        - text: To Do
+                      - button "See All" [ref=e491] [cursor=pointer]
+                      - generic [ref=e493]: 0 Task in To Do
+                    - generic [ref=e499]:
+                      - heading " Overdue" [level=2] [ref=e501]:
+                        - generic [ref=e502]: 
+                        - text: Overdue
+                      - button "See All" [ref=e505] [cursor=pointer]
+                      - generic [ref=e507]: 6332 Task in Overdue
+    - complementary [ref=e508]:
+      - generic [ref=e510]:
+        - button "" [ref=e513] [cursor=pointer]:
+          - generic [ref=e514]: 
+        - generic [ref=e515]:
+          - button "" [ref=e517] [cursor=pointer]:
+            - generic [ref=e518]: 
+          - button "" [disabled] [ref=e520] [cursor=pointer]:
+            - generic [ref=e521]: 
+          - button "" [ref=e523] [cursor=pointer]:
+            - generic [ref=e524]: 
+          - button "" [ref=e526] [cursor=pointer]:
+            - generic [ref=e527]: 
+      - generic [ref=e529]:
+        - generic [ref=e530]:
+          - textbox "Please insert a title." [ref=e531]: ab
+          - generic [ref=e532] [cursor=pointer]: 
+        - generic [ref=e534]:
+          - button "Create" [ref=e536] [cursor=pointer]: Create
+          - button "Choose" [ref=e538] [cursor=pointer]: Choose
+        - generic [ref=e540]:
+          - heading "Capture Image" [level=3] [ref=e542]
+          - button "" [ref=e544]:
+            - generic [ref=e545]: 
+        - generic [ref=e546]:
+          - generic [ref=e547]:
+            - heading "Visible to" [level=3] [ref=e549]
+            - button " Favourites" [ref=e552] [cursor=pointer]:
+              - generic [ref=e553]: 
+              - text: Favourites
+          - generic [ref=e557]:
+            - generic [ref=e558]:
+              - generic [ref=e559] [cursor=pointer]:
+                - generic [ref=e562]: AU
+                - generic [ref=e563]: Automation Update by secondary super admin
+                - generic [ref=e565]: 
+              - combobox [ref=e567]
+            - button "Clear all" [ref=e568] [cursor=pointer]:
+              - generic: ×
+        - generic [ref=e570]:
+          - generic [ref=e571]:
+            - heading "Keywords" [level=3] [ref=e573]
+            - generic [ref=e574]:
+              - button " Favourites" [ref=e577] [cursor=pointer]:
+                - generic [ref=e578]: 
+                - text: Favourites
+              - generic [ref=e579]: •
+              - generic [ref=e580]:
+                - generic [ref=e581]: Draft
+                - checkbox [ref=e585]
+          - generic [ref=e587]:
+            - generic [ref=e589]:
+              - generic [ref=e590]: Add Keywords
+              - combobox [expanded] [active] [ref=e592]
+            - generic "Options List" [ref=e594]:
+              - listbox [ref=e595]:
+                - generic [ref=e596]:
+                  - option "draft" [ref=e597] [cursor=pointer]:
+                    - generic [ref=e598]: draft
+                  - option "eino-struktur" [ref=e599] [cursor=pointer]
+                  - option "eino-marktplatz" [ref=e600] [cursor=pointer]
+                  - option "replacedthis" [ref=e601] [cursor=pointer]
+                  - option "eino-affiliate" [ref=e602] [cursor=pointer]
+                  - option "antuaproval" [ref=e603] [cursor=pointer]
+                  - option "heimat123" [ref=e604] [cursor=pointer]
+                  - option "keay" [ref=e605] [cursor=pointer]
+                  - option "key1" [ref=e606] [cursor=pointer]
+                  - option "loveerffdgvdfr" [ref=e607] [cursor=pointer]
+                  - option "approvalkeywordcheck" [ref=e608] [cursor=pointer]
+                  - option "automation" [ref=e609] [cursor=pointer]
+                  - option "angular" [ref=e610] [cursor=pointer]
+                  - option "key" [ref=e611] [cursor=pointer]
+                  - option "keybyeditor" [ref=e612] [cursor=pointer]
+                  - option "key-202510140701" [ref=e613] [cursor=pointer]
+                  - option "asdf" [ref=e614] [cursor=pointer]
+                  - option "key-word" [ref=e615] [cursor=pointer]
+                  - option "key-resource" [ref=e616] [cursor=pointer]
+                  - option "git" [ref=e617] [cursor=pointer]
+                  - option "version-control" [ref=e618] [cursor=pointer]
+                  - option "heygen" [ref=e619] [cursor=pointer]
+                  - option "feature" [ref=e620] [cursor=pointer]
+                  - option "redis" [ref=e621] [cursor=pointer]
+                  - option "backend" [ref=e622] [cursor=pointer]
+                  - option "guideline" [ref=e623] [cursor=pointer]
+                  - option "marketplace" [ref=e624] [cursor=pointer]
+                  - option "springboot" [ref=e625] [cursor=pointer]
+                  - option "service" [ref=e626] [cursor=pointer]
+                  - option "gcp" [ref=e627] [cursor=pointer]
+                  - option "devops" [ref=e628] [cursor=pointer]
+                  - option "capacitor" [ref=e629] [cursor=pointer]
+                  - option "frontend" [ref=e630] [cursor=pointer]
+                  - option "android" [ref=e631] [cursor=pointer]
+                  - option "brand-new" [ref=e632] [cursor=pointer]
+                  - option "key-202512160626" [ref=e633] [cursor=pointer]
+                  - option "key-1765866489059" [ref=e634] [cursor=pointer]
+                  - option "key-1765866953937" [ref=e635] [cursor=pointer]
+                  - option "key-1765872141630" [ref=e636] [cursor=pointer]
+                  - option "key-1765872218524" [ref=e637] [cursor=pointer]
+                  - option "key-dup-202512160808" [ref=e638] [cursor=pointer]
+                  - option "key-1765872723274" [ref=e639] [cursor=pointer]
+                  - option "key-dup-202512160817" [ref=e640] [cursor=pointer]
+                  - option "key-1765873236888" [ref=e641] [cursor=pointer]
+                  - option "key-1765873378989" [ref=e642] [cursor=pointer]
+                  - option "key-1765875348398" [ref=e643] [cursor=pointer]
+                  - option "key-dup-1765878079971" [ref=e644] [cursor=pointer]
+                  - option "menu-keywords" [ref=e645] [cursor=pointer]
+                  - option "key-1765882403294" [ref=e646] [cursor=pointer]
+                  - option "apple-1765882812223-202512161100" [ref=e647] [cursor=pointer]
+                  - option "apple-1765883980333-202512161119" [ref=e648] [cursor=pointer]
+                  - option "apple-1765884204447-202512161123" [ref=e649] [cursor=pointer]
+                  - option "key-1765946158730" [ref=e650] [cursor=pointer]
+                  - option "key-1765946251578" [ref=e651] [cursor=pointer]
+                  - option "key-dup-202512170440" [ref=e652] [cursor=pointer]
+                  - option "key-dup-202512170441" [ref=e653] [cursor=pointer]
+                  - option "key-1765947198511" [ref=e654] [cursor=pointer]
+                  - option "apple-1765947667088" [ref=e655] [cursor=pointer]
+                  - option "apple-1765948017240" [ref=e656] [cursor=pointer]
+                  - option "apple-1765948071174" [ref=e657] [cursor=pointer]
+                  - option "apple-1765948205432" [ref=e658] [cursor=pointer]
+                  - option "apple-1765948354604" [ref=e659] [cursor=pointer]
+                  - option "apple-1765951995257" [ref=e660] [cursor=pointer]
+                  - option "apple-1765952234452" [ref=e661] [cursor=pointer]
+                  - option "apple-1765952372603" [ref=e662] [cursor=pointer]
+                  - option "apple-1765952695182" [ref=e663] [cursor=pointer]
+                  - option "key-1765952960027" [ref=e664] [cursor=pointer]
+                  - option "key-1765953032785" [ref=e665] [cursor=pointer]
+                  - option "key-1765953112198" [ref=e666] [cursor=pointer]
+                  - option "key-1765953165380" [ref=e667] [cursor=pointer]
+                  - option "apple-1765953332547" [ref=e668] [cursor=pointer]
+                  - option "key-dup-202512170637" [ref=e669] [cursor=pointer]
+                  - option "key-1766387096578" [ref=e670] [cursor=pointer]
+                  - option "apple-1766387246133" [ref=e671] [cursor=pointer]
+                  - option "key-dup-202512220709" [ref=e672] [cursor=pointer]
+                  - option "key-main-202512220713" [ref=e673] [cursor=pointer]
+                  - option "key-sec-202512220713" [ref=e674] [cursor=pointer]
+                  - option "key-1766451785916" [ref=e675] [cursor=pointer]
+                  - option "apple-1766451918175" [ref=e676] [cursor=pointer]
+                  - option "key-dup-202512230107" [ref=e677] [cursor=pointer]
+                  - option "key-main-202512230111" [ref=e678] [cursor=pointer]
+                  - option "key-sec-202512230111" [ref=e679] [cursor=pointer]
+                  - option "key-drawer-delete-202512230112" [ref=e680] [cursor=pointer]
+                  - option "key-share-202512230115" [ref=e681] [cursor=pointer]
+                  - option "key-assign-202512230120" [ref=e682] [cursor=pointer]
+                  - option "key-stress-1-1766452885977-202512230121" [ref=e683] [cursor=pointer]
+                  - option "key-stress-2-1766452885977-202512230121" [ref=e684] [cursor=pointer]
+                  - option "key-stress-3-1766452885977-202512230122" [ref=e685] [cursor=pointer]
+                  - option "key-stress-4-1766452885977-202512230122" [ref=e686] [cursor=pointer]
+                  - option "key-1766455477388" [ref=e687] [cursor=pointer]
+                  - option "apple-1766455598107" [ref=e688] [cursor=pointer]
+                  - option "key-dup-202512230208" [ref=e689] [cursor=pointer]
+                  - option "key-main-202512230212" [ref=e690] [cursor=pointer]
+                  - option "key-sec-202512230213" [ref=e691] [cursor=pointer]
+                  - option "key-drawer-delete-202512230214" [ref=e692] [cursor=pointer]
+                  - option "key-share-202512230217" [ref=e693] [cursor=pointer]
+                  - option "key-assign-202512230222" [ref=e694] [cursor=pointer]
+                  - option "key-stress-1-1766456583905-202512230223" [ref=e695] [cursor=pointer]
+                  - option "key-stress-2-1766456583905-202512230223" [ref=e696] [cursor=pointer]
+                  - option "key-stress-3-1766456583905-202512230223" [ref=e697] [cursor=pointer]
+                  - option "key-stress-4-1766456583905-202512230223" [ref=e698] [cursor=pointer]
+                  - option "key-1766537799559" [ref=e699] [cursor=pointer]
+                  - option "apple-1766537941636" [ref=e700] [cursor=pointer]
+                  - option "key-dup-202512240101" [ref=e701] [cursor=pointer]
+                  - option "key-main-202512240104" [ref=e702] [cursor=pointer]
+                  - option "key-sec-202512240105" [ref=e703] [cursor=pointer]
+                  - option "key-drawer-delete-202512240106" [ref=e704] [cursor=pointer]
+                  - option "key-share-202512240109" [ref=e705] [cursor=pointer]
+                  - option "key-assign-202512240114" [ref=e706] [cursor=pointer]
+                  - option "key-stress-1-1766538907353-202512240115" [ref=e707] [cursor=pointer]
+                  - option "key-stress-2-1766538907353-202512240115" [ref=e708] [cursor=pointer]
+                  - option "key-stress-3-1766538907353-202512240115" [ref=e709] [cursor=pointer]
+                  - option "key-stress-4-1766538907353-202512240115" [ref=e710] [cursor=pointer]
+                  - option "key-1766541770557" [ref=e711] [cursor=pointer]
+                  - option "apple-1766541926306" [ref=e712] [cursor=pointer]
+                  - option "key-dup-202512240207" [ref=e713] [cursor=pointer]
+                  - option "key-1766624514916" [ref=e714] [cursor=pointer]
+                  - option "apple-1766624690463" [ref=e715] [cursor=pointer]
+                  - option "key-dup-202512250106" [ref=e716] [cursor=pointer]
+                  - option "key-dup-202512250107" [ref=e717] [cursor=pointer]
+                  - option "key-main-202512250110" [ref=e718] [cursor=pointer]
+                  - option "key-sec-202512250111" [ref=e719] [cursor=pointer]
+                  - option "key-drawer-delete-202512250113" [ref=e720] [cursor=pointer]
+                  - option "key-share-202512250116" [ref=e721] [cursor=pointer]
+                  - option "key-assign-202512250120" [ref=e722] [cursor=pointer]
+                  - option "key-stress-1-1766625685810-202512250121" [ref=e723] [cursor=pointer]
+                  - option "key-stress-2-1766625685810-202512250121" [ref=e724] [cursor=pointer]
+                  - option "key-stress-3-1766625685810-202512250121" [ref=e725] [cursor=pointer]
+                  - option "key-stress-4-1766625685810-202512250122" [ref=e726] [cursor=pointer]
+                  - option "key-1766628163067" [ref=e727] [cursor=pointer]
+                  - option "apple-1766628301237" [ref=e728] [cursor=pointer]
+                  - option "key-dup-202512250206" [ref=e729] [cursor=pointer]
+                  - option "key-main-202512250210" [ref=e730] [cursor=pointer]
+                  - option "key-sec-202512250210" [ref=e731] [cursor=pointer]
+                  - option "key-drawer-delete-202512250212" [ref=e732] [cursor=pointer]
+                  - option "key-share-202512250215" [ref=e733] [cursor=pointer]
+                  - option "key-assign-202512250219" [ref=e734] [cursor=pointer]
+                  - option "key-stress-1-1766629242242-202512250220" [ref=e735] [cursor=pointer]
+                  - option "key-stress-2-1766629242242-202512250221" [ref=e736] [cursor=pointer]
+                  - option "key-stress-3-1766629242242-202512250221" [ref=e737] [cursor=pointer]
+                  - option "key-stress-4-1766629242242-202512250221" [ref=e738] [cursor=pointer]
+                  - option "key-1766710295906" [ref=e739] [cursor=pointer]
+                  - option "apple-1766710410992" [ref=e740] [cursor=pointer]
+                  - option "key-dup-202512260055" [ref=e741] [cursor=pointer]
+                  - option "key-main-202512260059" [ref=e742] [cursor=pointer]
+                  - option "key-sec-202512260059" [ref=e743] [cursor=pointer]
+                  - option "key-drawer-delete-202512260101" [ref=e744] [cursor=pointer]
+                  - option "key-share-202512260104" [ref=e745] [cursor=pointer]
+                  - option "key-assign-202512260108" [ref=e746] [cursor=pointer]
+                  - option "key-stress-1-1766711369076-202512260109" [ref=e747] [cursor=pointer]
+                  - option "key-stress-2-1766711369076-202512260109" [ref=e748] [cursor=pointer]
+                  - option "key-stress-3-1766711369076-202512260109" [ref=e749] [cursor=pointer]
+                  - option "key-stress-4-1766711369076-202512260110" [ref=e750] [cursor=pointer]
+                  - option "key-1766714478007" [ref=e751] [cursor=pointer]
+                  - option "apple-1766714604957" [ref=e752] [cursor=pointer]
+                  - option "key-dup-202512260205" [ref=e753] [cursor=pointer]
+                  - option "key-main-202512260208" [ref=e754] [cursor=pointer]
+                  - option "key-sec-202512260208" [ref=e755] [cursor=pointer]
+                  - option "key-drawer-delete-202512260210" [ref=e756] [cursor=pointer]
+                  - option "key-share-202512260213" [ref=e757] [cursor=pointer]
+                  - option "key-assign-202512260218" [ref=e758] [cursor=pointer]
+                  - option "key-stress-1-1766715566802-202512260219" [ref=e759] [cursor=pointer]
+                  - option "key-stress-2-1766715566802-202512260220" [ref=e760] [cursor=pointer]
+                  - option "key-stress-3-1766715566802-202512260220" [ref=e761] [cursor=pointer]
+                  - option "key-stress-4-1766715566802-202512260220" [ref=e762] [cursor=pointer]
+                  - option "key-1766797093361" [ref=e763] [cursor=pointer]
+                  - option "apple-1766797209180" [ref=e764] [cursor=pointer]
+                  - option "key-dup-202512270101" [ref=e765] [cursor=pointer]
+                  - option "key-main-202512270105" [ref=e766] [cursor=pointer]
+                  - option "key-sec-202512270105" [ref=e767] [cursor=pointer]
+                  - option "key-drawer-delete-202512270107" [ref=e768] [cursor=pointer]
+                  - option "key-share-202512270110" [ref=e769] [cursor=pointer]
+                  - option "key-assign-202512270114" [ref=e770] [cursor=pointer]
+                  - option "key-stress-1-1766798135287-202512270115" [ref=e771] [cursor=pointer]
+                  - option "key-stress-2-1766798135287-202512270115" [ref=e772] [cursor=pointer]
+                  - option "key-stress-3-1766798135287-202512270116" [ref=e773] [cursor=pointer]
+                  - option "key-stress-4-1766798135287-202512270116" [ref=e774] [cursor=pointer]
+                  - option "key-1766800993549" [ref=e775] [cursor=pointer]
+                  - option "apple-1766801123616" [ref=e776] [cursor=pointer]
+                  - option "key-dup-202512270207" [ref=e777] [cursor=pointer]
+                  - option "key-main-202512270210" [ref=e778] [cursor=pointer]
+                  - option "key-sec-202512270210" [ref=e779] [cursor=pointer]
+                  - option "key-drawer-delete-202512270212" [ref=e780] [cursor=pointer]
+                  - option "key-share-202512270215" [ref=e781] [cursor=pointer]
+                  - option "key-assign-202512270220" [ref=e782] [cursor=pointer]
+                  - option "key-stress-1-1766802061598-202512270221" [ref=e783] [cursor=pointer]
+                  - option "key-stress-2-1766802061598-202512270221" [ref=e784] [cursor=pointer]
+                  - option "key-stress-3-1766802061598-202512270221" [ref=e785] [cursor=pointer]
+                  - option "key-stress-4-1766802061598-202512270221" [ref=e786] [cursor=pointer]
+                  - option "key-1766883585057" [ref=e787] [cursor=pointer]
+                  - option "apple-1766883710486" [ref=e788] [cursor=pointer]
+                  - option "key-dup-202512280103" [ref=e789] [cursor=pointer]
+                  - option "key-main-202512280107" [ref=e790] [cursor=pointer]
+                  - option "key-sec-202512280107" [ref=e791] [cursor=pointer]
+                  - option "key-drawer-delete-202512280108" [ref=e792] [cursor=pointer]
+                  - option "key-share-202512280111" [ref=e793] [cursor=pointer]
+                  - option "key-assign-202512280116" [ref=e794] [cursor=pointer]
+                  - option "key-stress-1-1766884648699-202512280117" [ref=e795] [cursor=pointer]
+                  - option "key-stress-2-1766884648699-202512280117" [ref=e796] [cursor=pointer]
+                  - option "key-stress-3-1766884648699-202512280117" [ref=e797] [cursor=pointer]
+                  - option "key-stress-4-1766884648699-202512280118" [ref=e798] [cursor=pointer]
+                  - option "key-1766887418672" [ref=e799] [cursor=pointer]
+                  - option "apple-1766887525358" [ref=e800] [cursor=pointer]
+                  - option "key-dup-202512280206" [ref=e801] [cursor=pointer]
+                  - option "key-main-202512280210" [ref=e802] [cursor=pointer]
+                  - option "key-sec-202512280210" [ref=e803] [cursor=pointer]
+                  - option "key-drawer-delete-202512280212" [ref=e804] [cursor=pointer]
+                  - option "key-share-202512280215" [ref=e805] [cursor=pointer]
+                  - option "key-assign-202512280219" [ref=e806] [cursor=pointer]
+                  - option "key-stress-1-1766888450570-202512280221" [ref=e807] [cursor=pointer]
+                  - option "key-stress-2-1766888450570-202512280221" [ref=e808] [cursor=pointer]
+                  - option "key-stress-3-1766888450570-202512280221" [ref=e809] [cursor=pointer]
+                  - option "key-stress-4-1766888450570-202512280221" [ref=e810] [cursor=pointer]
+                  - option "key-1766969997101" [ref=e811] [cursor=pointer]
+                  - option "apple-1766970091121" [ref=e812] [cursor=pointer]
+                  - option "key-dup-202512290103" [ref=e813] [cursor=pointer]
+                  - option "key-main-202512290106" [ref=e814] [cursor=pointer]
+                  - option "key-sec-202512290106" [ref=e815] [cursor=pointer]
+                  - option "key-drawer-delete-202512290108" [ref=e816] [cursor=pointer]
+                  - option "key-share-202512290111" [ref=e817] [cursor=pointer]
+                  - option "key-assign-202512290116" [ref=e818] [cursor=pointer]
+                  - option "key-stress-1-1766971014979-202512290117" [ref=e819] [cursor=pointer]
+                  - option "key-stress-2-1766971014979-202512290117" [ref=e820] [cursor=pointer]
+                  - option "key-stress-3-1766971014979-202512290117" [ref=e821] [cursor=pointer]
+                  - option "key-stress-4-1766971014979-202512290117" [ref=e822] [cursor=pointer]
+                  - option "key-1766973945470" [ref=e823] [cursor=pointer]
+                  - option "apple-1766974043256" [ref=e824] [cursor=pointer]
+                  - option "key-dup-202512290209" [ref=e825] [cursor=pointer]
+                  - option "key-main-202512290212" [ref=e826] [cursor=pointer]
+                  - option "key-sec-202512290213" [ref=e827] [cursor=pointer]
+                  - option "key-drawer-delete-202512290214" [ref=e828] [cursor=pointer]
+                  - option "key-share-202512290217" [ref=e829] [cursor=pointer]
+                  - option "key-assign-202512290222" [ref=e830] [cursor=pointer]
+                  - option "key-stress-1-1766975000831-202512290223" [ref=e831] [cursor=pointer]
+                  - option "key-stress-2-1766975000831-202512290223" [ref=e832] [cursor=pointer]
+                  - option "key-stress-3-1766975000831-202512290223" [ref=e833] [cursor=pointer]
+                  - option "key-stress-4-1766975000831-202512290223" [ref=e834] [cursor=pointer]
+                  - option "key-1767012479816" [ref=e835] [cursor=pointer]
+                  - option "apple-1767012592270" [ref=e836] [cursor=pointer]
+                  - option "key-dup-202512291251" [ref=e837] [cursor=pointer]
+                  - option "key-main-202512291255" [ref=e838] [cursor=pointer]
+                  - option "key-sec-202512291255" [ref=e839] [cursor=pointer]
+                  - option "key-drawer-delete-202512291257" [ref=e840] [cursor=pointer]
+                  - option "key-share-202512291300" [ref=e841] [cursor=pointer]
+                  - option "key-1767057455267" [ref=e842] [cursor=pointer]
+                  - option "apple-1767057572306" [ref=e843] [cursor=pointer]
+                  - option "key-dup-202512300121" [ref=e844] [cursor=pointer]
+                  - option "key-main-202512300124" [ref=e845] [cursor=pointer]
+                  - option "key-sec-202512300125" [ref=e846] [cursor=pointer]
+                  - option "key-drawer-delete-202512300126" [ref=e847] [cursor=pointer]
+                  - option "key-share-202512300129" [ref=e848] [cursor=pointer]
+                  - option "key-1767061141678" [ref=e849] [cursor=pointer]
+                  - option "apple-1767061248969" [ref=e850] [cursor=pointer]
+                  - option "key-dup-202512300222" [ref=e851] [cursor=pointer]
+                  - option "key-main-202512300226" [ref=e852] [cursor=pointer]
+                  - option "key-sec-202512300226" [ref=e853] [cursor=pointer]
+                  - option "key-drawer-delete-202512300227" [ref=e854] [cursor=pointer]
+                  - option "key-share-202512300230" [ref=e855] [cursor=pointer]
+                  - option "key-1767075883204" [ref=e856] [cursor=pointer]
+                  - option "apple-1767076019094" [ref=e857] [cursor=pointer]
+                  - option "key-dup-202512300629" [ref=e858] [cursor=pointer]
+                  - option "key-main-202512300632" [ref=e859] [cursor=pointer]
+                  - option "key-1767105412078" [ref=e860] [cursor=pointer]
+                  - option "apple-1767105557604" [ref=e861] [cursor=pointer]
+                  - option "key-1767144016512" [ref=e862] [cursor=pointer]
+                  - option "apple-1767144139707" [ref=e863] [cursor=pointer]
+                  - option "key-dup-202512310124" [ref=e864] [cursor=pointer]
+                  - option "key-main-202512310128" [ref=e865] [cursor=pointer]
+                  - option "key-sec-202512310128" [ref=e866] [cursor=pointer]
+                  - option "key-drawer-delete-202512310130" [ref=e867] [cursor=pointer]
+                  - option "key-share-202512310133" [ref=e868] [cursor=pointer]
+                  - option "key-assign-202512310138" [ref=e869] [cursor=pointer]
+                  - option "key-stress-1-1767145157734-202512310139" [ref=e870] [cursor=pointer]
+                  - option "key-stress-2-1767145157734-202512310139" [ref=e871] [cursor=pointer]
+                  - option "key-stress-3-1767145157734-202512310139" [ref=e872] [cursor=pointer]
+                  - option "key-stress-4-1767145157734-202512310139" [ref=e873] [cursor=pointer]
+                  - option "key-1767151105705" [ref=e874] [cursor=pointer]
+                  - option "apple-1767151223607" [ref=e875] [cursor=pointer]
+                  - option "key-dup-202512310322" [ref=e876] [cursor=pointer]
+                  - option "key-main-202512310326" [ref=e877] [cursor=pointer]
+                  - option "key-sec-202512310326" [ref=e878] [cursor=pointer]
+                  - option "key-drawer-delete-202512310328" [ref=e879] [cursor=pointer]
+                  - option "key-share-202512310331" [ref=e880] [cursor=pointer]
+                  - option "key-stress-1-1767152176413-202512310336" [ref=e881] [cursor=pointer]
+                  - option "key-stress-2-1767152176413-202512310336" [ref=e882] [cursor=pointer]
+                  - option "key-stress-3-1767152176413-202512310336" [ref=e883] [cursor=pointer]
+                  - option "key-stress-4-1767152176413-202512310336" [ref=e884] [cursor=pointer]
+                  - option "key-1767292378562" [ref=e885] [cursor=pointer]
+                  - option "apple-1767292469650" [ref=e886] [cursor=pointer]
+                  - option "key-dup-202601011836" [ref=e887] [cursor=pointer]
+                  - option "key-main-202601011839" [ref=e888] [cursor=pointer]
+                  - option "key-sec-202601011840" [ref=e889] [cursor=pointer]
+                  - option "key-drawer-delete-202601011841" [ref=e890] [cursor=pointer]
+                  - option "key-share-202601011844" [ref=e891] [cursor=pointer]
+                  - option "key-assign-202601011848" [ref=e892] [cursor=pointer]
+                  - option "key-stress-1-1767293406905-202601011850" [ref=e893] [cursor=pointer]
+                  - option "key-stress-2-1767293406905-202601011850" [ref=e894] [cursor=pointer]
+                  - option "key-stress-3-1767293406905-202601011850" [ref=e895] [cursor=pointer]
+                  - option "key-stress-4-1767293406905-202601011850" [ref=e896] [cursor=pointer]
+                  - option "key-1767316696577" [ref=e897] [cursor=pointer]
+                  - option "apple-1767316787603" [ref=e898] [cursor=pointer]
+                  - option "key-dup-202601020121" [ref=e899] [cursor=pointer]
+                  - option "key-dup-202601020122" [ref=e900] [cursor=pointer]
+                  - option "key-main-202601020125" [ref=e901] [cursor=pointer]
+                  - option "key-sec-202601020125" [ref=e902] [cursor=pointer]
+                  - option "key-drawer-delete-202601020127" [ref=e903] [cursor=pointer]
+                  - option "key-share-202601020130" [ref=e904] [cursor=pointer]
+                  - option "key-assign-202601020134" [ref=e905] [cursor=pointer]
+                  - option "key-stress-1-1767317782161-202601020136" [ref=e906] [cursor=pointer]
+                  - option "key-stress-2-1767317782161-202601020136" [ref=e907] [cursor=pointer]
+                  - option "key-stress-3-1767317782161-202601020136" [ref=e908] [cursor=pointer]
+                  - option "key-stress-4-1767317782161-202601020137" [ref=e909] [cursor=pointer]
+                  - option "key-1767339615780" [ref=e910] [cursor=pointer]
+                  - option "apple-1767339759843" [ref=e911] [cursor=pointer]
+                  - option "key-1767340333083" [ref=e912] [cursor=pointer]
+                  - option "key-1767340464302" [ref=e913] [cursor=pointer]
+                  - option "apple-1767340621756" [ref=e914] [cursor=pointer]
+                  - option "key-1767340742264" [ref=e915] [cursor=pointer]
+                  - option "apple-1767340852656" [ref=e916] [cursor=pointer]
+                  - option "key-dup-202601020802" [ref=e917] [cursor=pointer]
+                  - option "apple-1767341062413" [ref=e918] [cursor=pointer]
+                  - option "apple-1767341146835" [ref=e919] [cursor=pointer]
+                  - option "apple-1767341281683" [ref=e920] [cursor=pointer]
+                  - option "apple-1767341399116" [ref=e921] [cursor=pointer]
+                  - option "apple-1767341524174" [ref=e922] [cursor=pointer]
+                  - option "key-1767341612718" [ref=e923] [cursor=pointer]
+                  - option "apple-1767341702991" [ref=e924] [cursor=pointer]
+                  - option "key-dup-202601020816" [ref=e925] [cursor=pointer]
+                  - option "key-main-202601020820" [ref=e926] [cursor=pointer]
+                  - option "key-sec-202601020820" [ref=e927] [cursor=pointer]
+                  - option "key-drawer-delete-202601020822" [ref=e928] [cursor=pointer]
+                  - option "key-share-202601020824" [ref=e929] [cursor=pointer]
+                  - option "key-assign-202601020828" [ref=e930] [cursor=pointer]
+                  - option "key-stress-1-1767342592285-202601020830" [ref=e931] [cursor=pointer]
+                  - option "key-stress-2-1767342592285-202601020830" [ref=e932] [cursor=pointer]
+                  - option "key-stress-3-1767342592285-202601020830" [ref=e933] [cursor=pointer]
+                  - option "key-stress-4-1767342592285-202601020830" [ref=e934] [cursor=pointer]
+                  - option "key-1767343230716" [ref=e935] [cursor=pointer]
+                  - option "key-1767343308664" [ref=e936] [cursor=pointer]
+                  - option "key-1767343436914" [ref=e937] [cursor=pointer]
+                  - option "apple-1767343775537" [ref=e938] [cursor=pointer]
+                  - option "apple-1767344648556" [ref=e939] [cursor=pointer]
+                  - option "apple-1767344793782" [ref=e940] [cursor=pointer]
+                  - option "key-1767345241448" [ref=e941] [cursor=pointer]
+                  - option "key-dashboard-202601020915" [ref=e942] [cursor=pointer]
+                  - option "apple-1767345361700" [ref=e943] [cursor=pointer]
+                  - option "key-dup-202601020917" [ref=e944] [cursor=pointer]
+                  - option "key-dup-202601020920" [ref=e945] [cursor=pointer]
+                  - option "key-dup-202601020925" [ref=e946] [cursor=pointer]
+                  - option "key-dup-202601020928" [ref=e947] [cursor=pointer]
+                  - option "key-dup" [ref=e948] [cursor=pointer]
+                  - option "key-dup-202601020944" [ref=e949] [cursor=pointer]
+                  - option "key-1767347204280" [ref=e950] [cursor=pointer]
+                  - option "key-dashboard-202601020947" [ref=e951] [cursor=pointer]
+                  - option "key-dup-202601020950" [ref=e952] [cursor=pointer]
+                  - option "key-main-202601020953" [ref=e953] [cursor=pointer]
+                  - option "key-sec-202601020953" [ref=e954] [cursor=pointer]
+                  - option "key-drawer-delete-202601020955" [ref=e955] [cursor=pointer]
+                  - option "key-share-202601020958" [ref=e956] [cursor=pointer]
+                  - option "key-1767348431253" [ref=e957] [cursor=pointer]
+                  - option "key-1767348463358" [ref=e958] [cursor=pointer]
+                  - option "key-dashboard-202601021009" [ref=e959] [cursor=pointer]
+                  - option "key-dup-test" [ref=e960] [cursor=pointer]
+                  - option "key-main-202601021015" [ref=e961] [cursor=pointer]
+                  - option "key-sec-202601021015" [ref=e962] [cursor=pointer]
+                  - option "key-drawer-delete-202601021016" [ref=e963] [cursor=pointer]
+                  - option "key-badge" [ref=e964] [cursor=pointer]
+                  - option "key-main-202601021057" [ref=e965] [cursor=pointer]
+                  - option "key-sec-202601021057" [ref=e966] [cursor=pointer]
+                  - option "key-main-202601021059" [ref=e967] [cursor=pointer]
+                  - option "key-sec-202601021059" [ref=e968] [cursor=pointer]
+                  - option "key-main-202601021103" [ref=e969] [cursor=pointer]
+                  - option "key-sec-202601021103" [ref=e970] [cursor=pointer]
+                  - option "key-drawer-delete-202601021105" [ref=e971] [cursor=pointer]
+                  - option "key-drawer-delete-202601021106" [ref=e972] [cursor=pointer]
+                  - option "key-main-202601021108" [ref=e973] [cursor=pointer]
+                  - option "key-sec-202601021108" [ref=e974] [cursor=pointer]
+                  - option "key-main-202601021111" [ref=e975] [cursor=pointer]
+                  - option "key-sec-202601021111" [ref=e976] [cursor=pointer]
+                  - option "key-main-202601021113" [ref=e977] [cursor=pointer]
+                  - option "key-sec-202601021113" [ref=e978] [cursor=pointer]
+                  - option "key-main-202601021116" [ref=e979] [cursor=pointer]
+                  - option "key-sec-202601021116" [ref=e980] [cursor=pointer]
+                  - option "key-main-202601021118" [ref=e981] [cursor=pointer]
+                  - option "key-sec-202601021118" [ref=e982] [cursor=pointer]
+                  - option "key-share-202601021132" [ref=e983] [cursor=pointer]
+                  - option "key-1767353974407" [ref=e984] [cursor=pointer]
+                  - option "key-dashboard-202601021140" [ref=e985] [cursor=pointer]
+                  - option "key-drawer-delete-202601021146" [ref=e986] [cursor=pointer]
+                  - option "key-1767354793820" [ref=e987] [cursor=pointer]
+                  - option "key-dashboard-202601021154" [ref=e988] [cursor=pointer]
+                  - option "apple-1767354917866" [ref=e989] [cursor=pointer]
+                  - option "key-drawer-delete-202601021200" [ref=e990] [cursor=pointer]
+                  - option "key-1767355376627" [ref=e991] [cursor=pointer]
+                  - option "key-dashboard-202601021204" [ref=e992] [cursor=pointer]
+                  - option "key-1767355584975" [ref=e993] [cursor=pointer]
+                  - option "key-dashboard-202601021207" [ref=e994] [cursor=pointer]
+                  - option "key-1767403067581" [ref=e995] [cursor=pointer]
+                  - option "key-1767489460462" [ref=e996] [cursor=pointer]
+                  - option "key-dashboard-202601040118" [ref=e997] [cursor=pointer]
+                  - option "apple-1767489559182" [ref=e998] [cursor=pointer]
+                  - option "key-dup-202601040121" [ref=e999] [cursor=pointer]
+                  - option "key-main-202601040124" [ref=e1000] [cursor=pointer]
+                  - option "key-sec-202601040124" [ref=e1001] [cursor=pointer]
+                  - option "key-drawer-delete-202601040126" [ref=e1002] [cursor=pointer]
+                  - option "key-share-202601040129" [ref=e1003] [cursor=pointer]
+                  - option "key-assign-202601040134" [ref=e1004] [cursor=pointer]
+                  - option "key-stress-1-1767490545957-202601040135" [ref=e1005] [cursor=pointer]
+                  - option "key-stress-2-1767490545957-202601040136" [ref=e1006] [cursor=pointer]
+                  - option "key-stress-3-1767490545957-202601040136" [ref=e1007] [cursor=pointer]
+                  - option "key-stress-4-1767490545957-202601040136" [ref=e1008] [cursor=pointer]
+                  - option "key-1767572594789" [ref=e1009] [cursor=pointer]
+                  - option "key-dashboard-202601050024" [ref=e1010] [cursor=pointer]
+                  - option "apple-1767572701998" [ref=e1011] [cursor=pointer]
+                  - option "key-1767575733932" [ref=e1012] [cursor=pointer]
+                  - option "key-dashboard-202601050116" [ref=e1013] [cursor=pointer]
+                  - option "key-1767614914943" [ref=e1014] [cursor=pointer]
+                  - option "key-dashboard-202601051209" [ref=e1015] [cursor=pointer]
+                  - option "key-1767661883526" [ref=e1016] [cursor=pointer]
+                  - option "key-dashboard-202601060112" [ref=e1017] [cursor=pointer]
+                  - option "apple-1767661994955" [ref=e1018] [cursor=pointer]
+                  - option "key-1767748302875" [ref=e1019] [cursor=pointer]
+                  - option "key-dashboard-202601070112" [ref=e1020] [cursor=pointer]
+                  - option "key-1767834682513" [ref=e1021] [cursor=pointer]
+                  - option "key-dashboard-202601080112" [ref=e1022] [cursor=pointer]
+                  - option "apple-1767834790656" [ref=e1023] [cursor=pointer]
+                  - option "key-1767920711946" [ref=e1024] [cursor=pointer]
+                  - option "key-dashboard-202601090106" [ref=e1025] [cursor=pointer]
+                  - option "key-1768007471465" [ref=e1026] [cursor=pointer]
+                  - option "key-dashboard-202601100112" [ref=e1027] [cursor=pointer]
+                  - option "key-1768093790219" [ref=e1028] [cursor=pointer]
+                  - option "key-dashboard-202601110110" [ref=e1029] [cursor=pointer]
+                  - option "key-1768180138294" [ref=e1030] [cursor=pointer]
+                  - option "key-dashboard-202601120109" [ref=e1031] [cursor=pointer]
+                  - option "apple-1768180259142" [ref=e1032] [cursor=pointer]
+                  - option "key-1768266567868" [ref=e1033] [cursor=pointer]
+                  - option "key-dashboard-202601130110" [ref=e1034] [cursor=pointer]
+                  - option "apple-1768266689937" [ref=e1035] [cursor=pointer]
+                  - option "key-1768280075789" [ref=e1036] [cursor=pointer]
+                  - option "key-dashboard-202601130455" [ref=e1037] [cursor=pointer]
+                  - option "key-1768286305469" [ref=e1038] [cursor=pointer]
+                  - option "key-dashboard-202601130639" [ref=e1039] [cursor=pointer]
+                  - option "key-1768352726164" [ref=e1040] [cursor=pointer]
+                  - option "key-dashboard-202601140106" [ref=e1041] [cursor=pointer]
+                  - option "apple-1768352848472" [ref=e1042] [cursor=pointer]
+                  - option "key-1768439036911" [ref=e1043] [cursor=pointer]
+                  - option "key-dashboard-202601150105" [ref=e1044] [cursor=pointer]
+                  - option "key-1768525730843" [ref=e1045] [cursor=pointer]
+                  - option "key-dashboard-202601160109" [ref=e1046] [cursor=pointer]
+                  - option "key-1768612199997" [ref=e1047] [cursor=pointer]
+                  - option "key-dashboard-202601170110" [ref=e1048] [cursor=pointer]
+                  - option "key-1768698501665" [ref=e1049] [cursor=pointer]
+                  - option "apple-1768698650703" [ref=e1050] [cursor=pointer]
+                  - option "key-1768785116078" [ref=e1051] [cursor=pointer]
+                  - option "key-dashboard-202601190112" [ref=e1052] [cursor=pointer]
+                  - option "apple-1768785243103" [ref=e1053] [cursor=pointer]
+                  - option "key-1768871647617" [ref=e1054] [cursor=pointer]
+                  - option "key-dashboard-202601200114" [ref=e1055] [cursor=pointer]
+                  - option "key-1769043248057" [ref=e1056] [cursor=pointer]
+                  - option "key-1769130365537" [ref=e1057] [cursor=pointer]
+                  - option "key-dashboard-202601230107" [ref=e1058] [cursor=pointer]
+                  - option "apple-1769130537526" [ref=e1059] [cursor=pointer]
+                  - option "key-1769217194918" [ref=e1060] [cursor=pointer]
+                  - option "key-dashboard-202601240113" [ref=e1061] [cursor=pointer]
+                  - option "key-1769303408817" [ref=e1062] [cursor=pointer]
+                  - option "key-dashboard-202601250111" [ref=e1063] [cursor=pointer]
+                  - option "key-1769389863222" [ref=e1064] [cursor=pointer]
+                  - option "key-dashboard-202601260111" [ref=e1065] [cursor=pointer]
+                  - option "key-dashboard-202601270114" [ref=e1066] [cursor=pointer]
+                  - option "key-1769562462981" [ref=e1067] [cursor=pointer]
+                  - option "key-dashboard-202601280108" [ref=e1068] [cursor=pointer]
+                  - option "key-1769648369347" [ref=e1069] [cursor=pointer]
+                  - option "key-dashboard-202601290100" [ref=e1070] [cursor=pointer]
+                  - option "key-create-verify-202601290101" [ref=e1071] [cursor=pointer]
+                  - option "key-1769735567748" [ref=e1072] [cursor=pointer]
+                  - option "key-dashboard-202601300113" [ref=e1073] [cursor=pointer]
+                  - option "apple-1769735672534" [ref=e1074] [cursor=pointer]
+                  - option "key-create-verify-202601300115" [ref=e1075] [cursor=pointer]
+                  - option "key-1769822045342" [ref=e1076] [cursor=pointer]
+                  - option "key-create-verify-202601310117" [ref=e1077] [cursor=pointer]
+                  - option "key-1769908293223" [ref=e1078] [cursor=pointer]
+                  - option "key-dashboard-202602010112" [ref=e1079] [cursor=pointer]
+                  - option "key-create-verify-202602010114" [ref=e1080] [cursor=pointer]
+                  - option "key-1769994797762" [ref=e1081] [cursor=pointer]
+                  - option "key-dashboard-202602020114" [ref=e1082] [cursor=pointer]
+                  - option "key-create-verify-202602020115" [ref=e1083] [cursor=pointer]
+                  - option "key-1770081147185" [ref=e1084] [cursor=pointer]
+                  - option "key-dashboard-202602030113" [ref=e1085] [cursor=pointer]
+                  - option "apple-1770081267906" [ref=e1086] [cursor=pointer]
+                  - option "key-create-verify-202602030115" [ref=e1087] [cursor=pointer]
+                  - option "key-1770166648158" [ref=e1088] [cursor=pointer]
+                  - option "key-dashboard-202602040058" [ref=e1089] [cursor=pointer]
+                  - option "apple-1770166793248" [ref=e1090] [cursor=pointer]
+                  - option "key-1770253107869" [ref=e1091] [cursor=pointer]
+                  - option "key-1771313587925" [ref=e1092] [cursor=pointer]
+                  - option "key-create-verify-202602170735" [ref=e1093] [cursor=pointer]
+                  - option "key-1771376208056" [ref=e1094] [cursor=pointer]
+                  - option "key-create-verify-202602180058" [ref=e1095] [cursor=pointer]
+                  - option "key-1771464831420" [ref=e1096] [cursor=pointer]
+                  - option "apple-1771464933053" [ref=e1097] [cursor=pointer]
+                  - option "key-create-verify-202602190136" [ref=e1098] [cursor=pointer]
+                  - option "key-1771549103664" [ref=e1099] [cursor=pointer]
+                  - option "key-create-verify-202602200101" [ref=e1100] [cursor=pointer]
+                  - option "key-1771635696283" [ref=e1101] [cursor=pointer]
+                  - option "key-create-verify-202602210104" [ref=e1102] [cursor=pointer]
+                  - option "key-1771721786610" [ref=e1103] [cursor=pointer]
+                  - option "key-create-verify-202602220059" [ref=e1104] [cursor=pointer]
+                  - option "key-empty-202602220101" [ref=e1105] [cursor=pointer]
+                  - option "key-908" [ref=e1106] [cursor=pointer]
+                  - option "replaced" [ref=e1107] [cursor=pointer]
+                  - option "keurodcns" [ref=e1108] [cursor=pointer]
+                  - option "key-1771808330221" [ref=e1109] [cursor=pointer]
+                  - option "key-create-verify-202602230102" [ref=e1110] [cursor=pointer]
+                  - option "key-empty-202602230104" [ref=e1111] [cursor=pointer]
+                  - option "key-1771894494826" [ref=e1112] [cursor=pointer]
+                  - option "apple-1771894583381" [ref=e1113] [cursor=pointer]
+                  - option "key-create-verify-202602240057" [ref=e1114] [cursor=pointer]
+                  - option "key-empty-202602240059" [ref=e1115] [cursor=pointer]
+                  - option "key-1771980974103" [ref=e1116] [cursor=pointer]
+                  - option "apple-1771981079970" [ref=e1117] [cursor=pointer]
+                  - option "key-create-verify-202602250059" [ref=e1118] [cursor=pointer]
+                  - option "key-empty-202602250101" [ref=e1119] [cursor=pointer]
+                  - option "key-1772066620534" [ref=e1120] [cursor=pointer]
+                  - option "key-create-verify-202602260046" [ref=e1121] [cursor=pointer]
+                  - option "key-empty-202602260048" [ref=e1122] [cursor=pointer]
+                  - option "key-1772170744053" [ref=e1123] [cursor=pointer]
+                  - option "key-1772239419025" [ref=e1124] [cursor=pointer]
+                  - option "key-1772584988394" [ref=e1125] [cursor=pointer]
+                  - option "key-create-verify-202603040046" [ref=e1126] [cursor=pointer]
+                  - option "key-empty-202603040048" [ref=e1127] [cursor=pointer]
+                  - option "key-1772671217475" [ref=e1128] [cursor=pointer]
+                  - option "key-create-verify-202603050043" [ref=e1129] [cursor=pointer]
+                  - option "key-empty-202603050045" [ref=e1130] [cursor=pointer]
+                  - option "key-1772758023662" [ref=e1131] [cursor=pointer]
+                  - option "key-create-verify-202603060050" [ref=e1132] [cursor=pointer]
+                  - option "key-empty-202603060052" [ref=e1133] [cursor=pointer]
+                  - option "key-1772844060452" [ref=e1134] [cursor=pointer]
+                  - option "key-create-verify-202603070043" [ref=e1135] [cursor=pointer]
+                  - option "key-1772930592696" [ref=e1136] [cursor=pointer]
+                  - option "key-1773017058960" [ref=e1137] [cursor=pointer]
+                  - option "key-create-verify-202603090046" [ref=e1138] [cursor=pointer]
+                  - option "key-empty-202603090048" [ref=e1139] [cursor=pointer]
+                  - option "key-1773103254360" [ref=e1140] [cursor=pointer]
+                  - option "key-create-verify-202603100043" [ref=e1141] [cursor=pointer]
+                  - option "key-empty-202603100044" [ref=e1142] [cursor=pointer]
+                  - option "key-1773189769917" [ref=e1143] [cursor=pointer]
+                  - option "key-create-verify-202603110045" [ref=e1144] [cursor=pointer]
+                  - option "key-empty-202603110047" [ref=e1145] [cursor=pointer]
+                  - option "key-1773276216460" [ref=e1146] [cursor=pointer]
+                  - option "key-create-verify-202603120045" [ref=e1147] [cursor=pointer]
+                  - option "key-empty-202603120047" [ref=e1148] [cursor=pointer]
+                  - option "key-1773362454117" [ref=e1149] [cursor=pointer]
+                  - option "key-dashboard-202603130041" [ref=e1150] [cursor=pointer]
+                  - option "key-create-verify-202603130042" [ref=e1151] [cursor=pointer]
+          - generic [ref=e1152]:
+            - generic [ref=e1153]: 
+            - text: Maximum 10 keywords can be selected
+        - generic [ref=e1154]:
+          - heading "Description" [level=3] [ref=e1155]
+          - generic [ref=e1156]:
+            - button "" [ref=e1158] [cursor=pointer]:
+              - generic [ref=e1159]: 
+            - switch [ref=e1163]
+        - generic [ref=e1165]:
+          - heading "Summary" [level=3] [ref=e1166]
+          - switch [ref=e1171]
+      - button "" [ref=e1177] [cursor=pointer]:
+        - generic [ref=e1178]: 
+  - iframe [ref=e1179]:
+    - generic [ref=f1e6]:
+      - generic [ref=f1e7]:
+        - generic [ref=f1e8]:
+          - generic [ref=f1e9]: EINO
+          - generic [ref=f1e10]:
+            - button "" [ref=f1e11] [cursor=pointer]:
+              - generic [ref=f1e12]: 
+            - button "" [ref=f1e13] [cursor=pointer]:
+              - generic [ref=f1e14]: 
+        - heading "How Can We Help You?" [level=1] [ref=f1e15]
+        - paragraph [ref=f1e16]: Check out our FAQs or chat with our team
+        - generic [ref=f1e17]:
+          - generic [ref=f1e18]: 
+          - textbox "Search" [ref=f1e19]
+      - generic [ref=f1e20]:
+        - paragraph [ref=f1e21]: FREQUENT TOPICS
+        - generic [ref=f1e22]:
+          - button "Account" [ref=f1e23] [cursor=pointer]
+          - button "Subscription" [ref=f1e24] [cursor=pointer]
+          - button "Billing" [ref=f1e25] [cursor=pointer]
+          - button "Resources" [ref=f1e26] [cursor=pointer]
+          - button "Guidelines" [ref=f1e27] [cursor=pointer]
+          - button "QR Codes" [ref=f1e28] [cursor=pointer]
+          - button "Uploads" [ref=f1e29] [cursor=pointer]
+          - button "Add-ons" [ref=f1e30] [cursor=pointer]
+          - button "Users" [ref=f1e31] [cursor=pointer]
+          - button "Permissions" [ref=f1e32] [cursor=pointer]
+          - button "Search" [ref=f1e33] [cursor=pointer]
+          - button "AI Chat" [ref=f1e34] [cursor=pointer]
+          - button "Support" [ref=f1e35] [cursor=pointer]
+          - button "Mobile App" [ref=f1e36] [cursor=pointer]
+        - button "" [ref=f1e38] [cursor=pointer]:
+          - generic [ref=f1e39]: 
+        - paragraph [ref=f1e40]: LIVE SUPPORT
+        - generic [ref=f1e41]:
+          - generic [ref=f1e42]:
+            - heading "We Are Here To Help!" [level=3] [ref=f1e43]
+            - paragraph [ref=f1e44]: Talk to us instantly through live chat
+            - button "Chat With AI" [ref=f1e45] [cursor=pointer]
+          - generic [ref=f1e46]:
+            - generic [ref=f1e49]: We are online
+            - img "Support" [ref=f1e50]
+  - generic:
+    - application:
+      - generic:
+        - generic:
+          - list
+        - generic:
+          - list
+    - application:
+      - generic:
+        - generic:
+          - list
+        - generic:
+          - list
+```

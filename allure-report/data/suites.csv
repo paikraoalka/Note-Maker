@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","25635","test NoteMaker app","webkit","2026-03-13","passed","2026-03-13","","Login.spec.js","",""
+"","39388","test","chromium","2026-03-13","broken","2026-03-13","","Live_image.spec.js","",""
+"","38661","test NoteMaker app","chromium","2026-03-13","passed","2026-03-13","","Login.spec.js","",""
+"","35405","test","webkit","2026-03-13","broken","2026-03-13","","Live_image.spec.js","",""
+"","30586","test NoteMaker app","firefox","2026-03-13","passed","2026-03-13","","Login.spec.js","",""
+"","38636","test","firefox","2026-03-13","broken","2026-03-13","","Live_image.spec.js","",""
